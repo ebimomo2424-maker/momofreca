@@ -117,3 +117,13 @@ color:#666;
 font-size:14px;
 
 }
+
+@media(min-width:900px){
+
+#gallery{
+
+grid-template-columns:repeat(5,1fr);
+
+}
+
+}
